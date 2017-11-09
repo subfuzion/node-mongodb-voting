@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple database library package (using MongoDB) for Docker Demo",
   "main": "index.js",
-  "author": "tony@subfuzion.com",
+  "author": "Tony Pujals <tony@subfuzion.com> (https://twitter.com/subfuzion)",
   "license": "MIT",
   "repository": {
     "type": "git",
